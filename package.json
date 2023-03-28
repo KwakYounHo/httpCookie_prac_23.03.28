@@ -1,0 +1,25 @@
+{
+  "name": "httpcookie_prac_23.03.28",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mysql_Timestamp_prac.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwakYounHo/httpCookie_prac_23.03.28.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwakYounHo/httpCookie_prac_23.03.28/issues"
+  },
+  "homepage": "https://github.com/KwakYounHo/httpCookie_prac_23.03.28#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "mysql2": "^3.2.0",
+    "qs": "^6.11.1"
+  }
+}
